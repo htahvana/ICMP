@@ -1,1 +1,1 @@
-This repository contain lecture notes for Introduction to Computer Musica Programming course
+This repository contain lecture notes for Introduction to Computer Music Programming course
